@@ -57,7 +57,7 @@
                     </li>
                     <li>
                         <a  href="#testimonial-section">Blog</a>
-                    
+                    <li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
