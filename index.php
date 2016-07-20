@@ -74,7 +74,8 @@
     
 
   <section class="footer-in-wrapper">
-      <p>Alrights Reserved 2016 / Stephine Miniz Aldea / stealdworks</p>
+      <p>Alrights Reserved 2016 / Stephine Miniz Aldea / stealdworks</p><span><a href="http://www.hostinger.co.uk" target="_blank"><img
+                                                    src="//www.hostinger.co.uk/static/default.hostinger.co.uk/banners/id/hostinger-80x15-powered-1.gif" alt="Web Hosting" width="80" height="15" border="0"/></a></span>
   </section>
 
 
