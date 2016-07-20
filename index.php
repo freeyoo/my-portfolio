@@ -33,7 +33,7 @@
   <div class="container align-center header-text">
     <h1 class="ht-lg-1 ">Hello!</h1>
     <h1 class="ht-lg-2 color-aqua">I'm Stephine</h1>
-    <img src="img/meinbanner.jpg" class="avatar-in-banner">
+    <img src="http://www.4shared.com/img/nglX2tsvce/s25/15609279420/meinbanner" class="avatar-in-banner">
     <p class="color-lightorange">Web Designer / Web Developer</p>
     
     
