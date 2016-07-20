@@ -70,9 +70,11 @@
 
 <header class="hd-banner">
   <div class="container align-center header-text">
-    <h1 class="ht-lg-1 ">-CONNECT WITH US-</h1>
-    <img src="img/banner-gears.png" class="img-responsive">
+    <h1 class="ht-lg-1 ">-Hello!-</h1>
+    <hr class="style-2">
+    <h1 class="ht-lg-2 ">-Hello!-</h1>
     
+  
   </div>
 </header>
 
