@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <title>FJF | Home</title>
+  <title>Stephine Aldea</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Anton|Open+Sans|Raleway:100" rel="stylesheet">
@@ -50,29 +50,14 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a  href="#what-section">WHAT</a>
+                        <a  href="#what-section">Home</a>
                     </li>
                     <li>
-                        <a  href="#why-section">WHY</a>
+                        <a  href="#why-section">Works</a>
                     </li>
                     <li>
-                        <a  href="#testimonial-section">TESTIMONIALS</a>
-                    </li>
-                    <li>
-                        <a href="#schedules-section">SCHEDULES</a>
-                    </li>
-                    <li>
-                        <a href="#location-section">LOCATIONS</a>
-                    </li>
-                    <li>
-                        <a href="#contacts-section">CONTACTS</a>
-                    </li>
-                    <li>
-                        <a  class="page-scroll" href="file:///C:/Users/User/Desktop/FJF/ministry.html" target="_blank">MINISTRY</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="file:///C:/Users/User/Desktop/FJF/blog.html">Blog</a>
-                    </li>
+                        <a  href="#testimonial-section">Blog</a>
+                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
