@@ -1,0 +1,209 @@
+
+/*---------- PLAN OF SALVATION BANNER STYLE-----------*/
+.hd-banner-gpos {
+position: relative;
+background-image: url('../img/salvation.jpg');
+background-position: center center;
+background-size: cover;
+height: auto;
+width: auto;
+padding-top: 180px;
+padding-bottom: 120px;
+}
+
+.hd-banner-gpos::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #5b2a6d;
+    opacity: .8; 
+}
+
+.cont-wrapper { 
+	background-color: white; 
+	padding: 40px 20px;
+	margin-bottom: 20px;
+}
+
+
+/*---------- CARE GROUP BANNER STYLE-----------*/
+.hd-banner-caregroup {
+position: relative;
+background-image: url('../img/caregroup.jpg');
+background-position: center center;
+background-size: cover;
+height: auto;
+width: auto;
+padding-top: 180px;
+padding-bottom: 120px;
+}
+
+.hd-banner-caregroup::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #f97217;
+    opacity: .8; 
+}
+
+
+/*---------- CAREGROUP ZONES WINDOW -----------*/
+.caregroup-zones-section {
+width: 100%;
+height: auto;
+padding-top: 60px;
+padding-bottom: 50px;
+background-color: orange;
+}
+
+/*---------- MISSION TRIP BANNER STYLE-----------*/
+.hd-banner-missiontrip {
+position: relative;
+background-image: url('../img/missiontrip.jpg');
+background-position: center center;
+background-size: cover;
+height: auto;
+width: auto;
+padding-top: 180px;
+padding-bottom: 120px;
+}
+
+.hd-banner-missiontrip::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #f97217;
+    opacity: .8; 
+}
+
+/*---------- HARVEST POINT BANNER STYLE-----------*/
+.hd-banner-harvestpoint {
+position: relative;
+background-image: url('../img/harvestpoint.jpg');
+background-position: center center;
+background-size: cover;
+height: auto;
+width: auto;
+padding-top: 180px;
+padding-bottom: 120px;
+}
+
+.hd-banner-harvestpoint::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #f97217;
+    opacity: .8; 
+}
+
+/*---------- MINISTRY BANNER STYLE-----------*/
+.hd-banner-ministry {
+position: relative;
+background-image: url('../img/ministry.jpg');
+background-position: center center;
+background-size: cover;
+height: auto;
+width: auto;
+padding-top: 180px;
+padding-bottom: 120px;
+}
+
+.hd-banner-ministry::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #5b2a6d;
+    opacity: .8; 
+}
+
+/*---------- MINISTRY LEADERS BACKGROUND-----------*/
+.ministry-leaders {
+position: relative;
+background-image: url('../img/leadership.jpg');
+background-position: center center;
+background-size: cover;
+height: auto;
+width: auto;
+padding-top: 30px;
+padding-bottom: 100px;
+}
+
+.ministry-leaders::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: orange;
+    opacity: .8; 
+}
+
+.avatar-container {
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%;
+    height: 190px;
+    width: 190px;
+  } 
+section.ministry-leaders > div h1 {
+	text-align: center;
+	margin-bottom: 0 !important;
+	color: white;
+}
+section.ministry-leaders > div p {
+	text-align: center;
+	color: black;
+}
+/*---------- TIMELINE BANNER STYLE-----------*/
+.timeline-banner {
+background-color: #5b2a6d;
+padding-top: 30px;
+padding-bottom: 120px;
+width: 100%;
+height: auto;
+}
+
+/*---------- CARE GROUP ITEMS -----------*/
+
+.cg-item {
+    display: block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 40px;
+    border:5px solid white;
+    color: white;
+
+}
+
+.cg-item:hover {
+    background-color: white;
+    border:none;
+    color: grey;
+    cursor: pointer;
+}
+
+/*---------- ZONE POSTS STYLES -----------*/
+.zone-post-wrapper {
+    width: 100%;
+}
